@@ -1,0 +1,35 @@
+#root {
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 2rem;
+	text-align: center;
+}
+
+h1 {
+	color: #5c0408;
+}
+
+h2 {
+	color: #002a77cc;
+}
+
+h3 {
+	color: #171b17;
+}
+
+button {
+	background-color: #3e6e39;
+	color: antiquewhite;
+	padding: 10px 20px;
+	cursor: pointer;
+	border: none;
+	border-radius: 8px;
+	font-size: 18px;
+	font-weight: bold;
+	font-style: italic;
+	transition: 0.3s ease-in-out;
+}
+button:hover {
+	background-color: #0d270a;
+	color: white;
+}
